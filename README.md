@@ -1,0 +1,2 @@
+# RSS-feed Parser
+ This is an RSS parser application that uses technologies such as PHP, MySQL, and C#. A PHP script creates a truncated version of the feed on the local site, parses news from the XML page, and inserts it into the database. The client-side written in C# accesses the database, allowing users to view news in a convenient format and use filters. The client form is written using WinForms.
